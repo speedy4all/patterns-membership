@@ -9,7 +9,8 @@
   "author": "Bogdan Buescu",
   "license": "Apache-2.0",
   "dependencies": {
-    
+    "bcrypt-nodejs": "0.0.3",
+    "secondthought": "timhyson/second-thought"
   },
   "devDependencies": {
     "should": "^13.2.3",
