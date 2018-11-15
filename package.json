@@ -1,0 +1,20 @@
+{
+  "name": "patterns-membership",
+  "version": "1.0.0",
+  "description": "Node patterns / membership module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bogdan Buescu",
+  "license": "Apache-2.0",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "should": "^13.2.3",
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
